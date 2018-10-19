@@ -9,4 +9,4 @@ git --global user.name
 
 git log 
 git show 
-git diff
+git diff : xem noi dung co modified
