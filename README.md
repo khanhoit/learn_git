@@ -22,3 +22,14 @@ git reset : reset file từ khu vực staging về trạng thái checkout
 git checkout -b <branch> (branching)
 git checkout <branch>
 git merge
+<!-- 
+brand A ,B 
+A <--B
+
+git checkout B
+
+git merge B
+
+master <-- feature/chicken-class
+
+ -->
