@@ -1,0 +1,23 @@
+[33mcommit 3a275cf4797e9b9070eb618ed42d50431443e302[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: khanhnguyen <khanhnguyentitidj@gmail.com>
+Date:   Fri Oct 19 18:12:01 2018 +0700
+
+    chang README file
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 93b2a51..f88bd98 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1,9 @@[m
+[31m-dkgjd[m
+\ No newline at end of file[m
+[32m+[m[32mgit init[m
+[32m+[m[32mgit status[m
+[32m+[m[32mgit add[m
+[32m+[m[32mgit commit -m"mo ta phan commit"[m
+[32m+[m
+[32m+[m
+[32m+[m[32mgit log[m[41m [m
+[32m+[m[32mgit show[m[41m [m
+[32m+[m[32mgit diff[m
+\ No newline at end of file[m
