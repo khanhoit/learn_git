@@ -33,3 +33,10 @@ git merge B
 master <-- feature/chicken-class
 
  -->
+
+ git branch -D <branch> (delete branch)
+
+
+ git reset --soft <to_commit> 		staging
+ git reset --mixed <to_commit>		working directory
+ git reset --hard <to_commit>		bỏ các commit trên đường đi
