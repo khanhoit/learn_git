@@ -44,3 +44,5 @@ master <-- feature/chicken-class
 
  git revert (dao ngược lại)
 
+
+.gitignore
