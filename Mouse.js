@@ -1,4 +1,7 @@
 function Mouse(){
 	console.log("mause");
 }
-module.exports = Mouse;
+Mouse.prototype.eat = function() {
+	
+};
+module.exports = Mouse; 

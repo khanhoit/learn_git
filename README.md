@@ -15,5 +15,10 @@ working directory
 staging area
 git reposiroty
 
-git checkout
-git reset
+git checkout : trở về trạng thái cũ trước khi staging area; chuyển sang nhánh mơi làm việc
+git reset : reset file từ khu vực staging về trạng thái checkout
+
+
+git checkout -b <branch> (branching)
+git checkout <branch>
+git merge
