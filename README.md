@@ -14,3 +14,6 @@ git diff : xem noi dung co modified
 working directory
 staging area
 git reposiroty
+
+git checkout
+git reset
